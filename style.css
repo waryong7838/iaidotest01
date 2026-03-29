@@ -167,7 +167,7 @@ body.light-mode .footer {
   background: var(--black);
   background-image: url('/iaido01.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center 20%;
   display: flex;
   align-items: center;
   justify-content: center;
