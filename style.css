@@ -162,8 +162,8 @@ body.light-mode .footer {
 /* ===== HERO ===== */
 .hero {
   position: relative;
-  height: 100vh;
-  min-height: 600px;
+  height: 50vh;
+  min-height: 300px;
   background: var(--black);
   background-image: url('/iaido01.jpg');
   background-size: cover;
