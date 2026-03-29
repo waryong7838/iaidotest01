@@ -84,6 +84,13 @@ body {
   letter-spacing: 0.05em;
 }
 
+.nav-logo-phonetic {
+  font-size: 0.6rem;
+  color: var(--light);
+  letter-spacing: 0.08em;
+  opacity: 0.7;
+}
+
 .nav-logo-sub {
   font-size: 0.7rem;
   color: var(--light);
