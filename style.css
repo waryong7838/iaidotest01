@@ -73,8 +73,15 @@ body {
 
 .nav-logo {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.6rem;
   line-height: 1.2;
+}
+
+.nav-logo-main {
+  display: flex;
+  flex-direction: column;
 }
 
 .nav-logo-kr {
